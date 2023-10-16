@@ -1,5 +1,17 @@
 # Flutter E-commerce Mobile App Templates
 
+
+
+Integration Test Video Link: 
+
+https://drive.google.com/file/d/1zKYw5FImhZEHQ4RIK63BiTScub4ZCrFz/view?usp=drive_link
+
+
+
+
+
+
+
 ## [Watch it on YouTube](https://youtu.be/XBKzpTz65Io)
 
 **Packages we are using:**
